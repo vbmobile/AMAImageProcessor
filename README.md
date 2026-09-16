@@ -1,4 +1,4 @@
-# ⚠️ VBImageProcessor - INTERNAL USE ONLY ⚠️
+# ⚠️ AMAImageProcessor - INTERNAL USE ONLY ⚠️
  
 **Important Notice:**
  
