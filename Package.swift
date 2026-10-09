@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AMAImageProcessor",
-            url: "https://vbmobileidstorage.blob.core.windows.net/ios/AMAImageProcessor/AMAImageProcessor-2.0.6.zip",
-            checksum: "e9348d34f3d7e7e7587713f2445ecf34b7b27b3f4555a7ffe1bf5fdd3c9e2d15"
+            url: "https://vbmobileidstorage.blob.core.windows.net/ios/AMAImageProcessor/AMAImageProcessor-2.0.7.zip",
+            checksum: "70248865c044be9c8c3dfc3812a393e649e61a59e5ef3ad1d220dee7a5d7b4eb"
         ),
         .target(
             name: "AMAImageProcessorWrapper",
